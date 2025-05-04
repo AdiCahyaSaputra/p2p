@@ -17,6 +17,6 @@ $env:PORT=5000
 node --watch .\index.js
 ```
 
-If you are on linux mechine i know you can figure out on your on 😋
+If you are on linux machine i know you can figure out on your on 😋
 
 [references](https://www.youtube.com/watch?v=Yy7c-j681BA)
