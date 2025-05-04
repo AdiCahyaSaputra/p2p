@@ -18,3 +18,5 @@ node --watch .\index.js
 ```
 
 If you are on linux mechine i know you can figure out on your on 😋
+
+[references](https://www.youtube.com/watch?v=Yy7c-j681BA)
